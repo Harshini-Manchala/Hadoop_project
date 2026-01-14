@@ -1,0 +1,16 @@
+# Hadoop & Big Data
+hadoop-*
+hdfs
+opt/
+hive_data/
+
+# Logs
+*.log
+access_log.txt
+
+# Python
+__pycache__/
+venv/
+
+# OS
+.DS_Store
