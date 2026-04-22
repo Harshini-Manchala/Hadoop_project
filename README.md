@@ -1,4 +1,4 @@
-# Access Log Analysis using Hadoop, Hive & Anomaly Detection
+# Access Log Analysis using Hadoop, Hive & Anomaly Detection using Hadoop Streaming
 
 ## Overview
 This project analyzes web server access logs using Hadoop and Hive, converts processed results into CSV files, visualizes insights through a dashboard, and detects anomalies using Isolation Forest.
