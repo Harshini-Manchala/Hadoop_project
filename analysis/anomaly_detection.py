@@ -27,7 +27,7 @@ plt.scatter(df.index, df["count"], c=df["anomaly"], cmap="coolwarm")
 plt.title("Anomaly Detection on IP Counts")
 plt.xlabel("IP Record Index")
 plt.ylabel("Request Count")
-
+print("ok")
 # SAVE PLOT
 plt.savefig("anomaly_plot.png")
 print("✔ Saved anomaly plot as anomaly_plot.png")

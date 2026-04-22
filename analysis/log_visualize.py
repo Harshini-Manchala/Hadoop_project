@@ -74,4 +74,5 @@ plt.savefig(f"{PLOT_DIR}/top_ips.png")
 plt.close()
 
 print("\n🎉 DONE! All charts saved in:")
+print("ok")
 print(f"➡  {PLOT_DIR}")
